@@ -15,3 +15,9 @@ Headings
 ##### Heading level 5
 
 ###### Heading level 6
+
+Images
+--
+
+![Image of Original](https://octodex.github.com/images/original.png)
+![Image of Class Act](https://octodex.github.com/images/class-act.png)

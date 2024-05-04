@@ -1,6 +1,19 @@
 Syntax
 ==
 
+- [x] Headings
+- [ ] Paragraphs
+- [ ] Line Breaks
+- [ ] Emphasis
+- [ ] Blockquotes
+- [ ] Lists
+- [x] Code
+- [ ] Horizontal Rules
+- [ ] Links
+- [x] Images
+- [ ] Escaping Characters
+- [ ] HTML
+
 Headings
 --
 

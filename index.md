@@ -16,6 +16,14 @@ Headings
 
 ###### Heading level 6
 
+Code
+--
+
+```
+$ git init
+Initialized empty Git repository in /Users/mingu/Projects/markdown/.git/
+```
+
 Images
 --
 

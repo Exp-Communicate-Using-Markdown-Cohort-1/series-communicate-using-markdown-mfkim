@@ -118,7 +118,7 @@ Escaping Characters
 | - | minus sign (hyphen) |
 | . | dot |
 | ! | exclamation mark |
-| | | pipe |
+| \| | pipe |
 
 HTML
 ---
